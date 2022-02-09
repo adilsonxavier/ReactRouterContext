@@ -15,7 +15,11 @@ export default function Navbar(props) {
                 </li>
 
                 <li>
-                    <Link to="/company" >Empresa</Link>
+                    <Link to="/Login" >Login</Link>
+                </li>
+
+                <li>
+                    <Link to="/Profile" >Profile</Link>
                 </li>
 
 
